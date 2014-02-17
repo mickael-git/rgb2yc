@@ -1,0 +1,4 @@
+vhdl work "../yc422.vhd"
+vhdl work "../RGB2YCrCb.vhd"
+
+vhdl work "tb_rgb2ycrcb.vhd"
